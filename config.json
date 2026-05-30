@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervecrypt",
+        "uuid": 12098255,
+        "checksum": "2r3itc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
